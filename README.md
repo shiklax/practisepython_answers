@@ -2,4 +2,4 @@
 
 Answers to https://www.practicepython.org excercise
 
-Current status: 2/36
+Current status: 3/36
